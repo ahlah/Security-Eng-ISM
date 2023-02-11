@@ -1,0 +1,44 @@
+ls
+ls -la
+cd .backup
+ls
+grep leviathan bookmarks.html
+username:leviathan1
+password: PPIfmI1qsA
+ls
+./check 
+PPIfmI1qsA
+ls
+ltrace ./check
+.check
+sex
+id
+cat /etc/leviathan_pass/leviathan2
+username: leviathan3
+password: mEh5PNl10e
+username: leviathan4
+password: Q0G8j4sakn
+ls
+ls -la
+./trash
+.trash
+.trash/bin
+cd .trash
+ls -la
+./bin
+username: leviathan5
+password: EKKlTF1Xqs
+ls -la
+./leviathan5
+ltrace ./leviathan5
+ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log
+./leviathan5
+username: leviathan6
+password: AgvropI4OA
+ls-la
+./leviathan6
+for i in $(seq 0000 9999); do ./leviathan6 $i ; done
+id
+cat /etc/leviathan_pass/leviathan7
+username: leviathan7
+password: YZ55XPVk2l
